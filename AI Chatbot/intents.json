@@ -1,0 +1,174 @@
+{"intents": [
+    {
+        "tag": "greetings",
+        "patterns": [
+            "hello",
+            "hey",
+            "whatsup",
+            "whats up",
+            "hi", "good day",
+            "greetings",
+            "what's up?",
+            "how is it going?"
+        ],
+        "responses": [
+            "Hello!",
+            "Hey!",
+            "What can I do for you?"
+        ]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": [
+            "cya",
+            "See you later",
+            "Goodbye",
+            "I am Leaving",
+            "Have a Good day",
+            "bye",
+            "cao",
+            "see ya"
+        ],
+        "responses": [
+            "Sad to see you go :(",
+            "Talk to you later",
+            "Goodbye!"
+        ]
+    },
+    {
+        "tag": "age",
+        "patterns":[
+            "how old",
+            "how old is Prathmesh",
+            "what is your age",
+            "how old are you",
+            "age?",
+            "age",
+            "your age",
+            "your age?"
+        ],
+        "responses": [
+            "My owner Prathmesh is 20 years old!",
+            "20 years!"
+        ]
+    },
+    {
+        "tag": "name",
+        "patterns":[
+            "what is your name",
+            "what should i call you",
+            "whats your name?",
+            "whats your name",
+            "what's your name?",
+            "what's your name",
+            "who are you?",
+            "who are you",
+            "can you tell me your name?",
+            "can you tell me your name"
+        ],
+        "responses":[
+            "You can call me Career Counselling Chatbot",
+            "I'm Career Counselling Chatbot",
+            "I'm just a chat agent. I only exist in the internet"
+        ]
+    },
+    {
+        "tag": "thanks",
+        "patterns": [
+            "Thanks",
+            "okay",
+            "Thank you",
+            "thankyou",
+            "That's helpful",
+            "Awesome, thanks",
+            "Thanks for helping me",
+            "wow",
+            "great"
+        ],
+        "responses": [
+            "Happy to help!",
+            "Any time!",
+            "you're welcome",
+            "My pleasure"
+        ]
+    },
+    {
+        "tag": "noanswer",
+        "patterns": [
+            ""
+        ],
+        "responses": [
+            "Sorry, I didn't understand you",
+            "Please give me more info",
+            "Not sure I understand that"
+        ]
+    },
+    {
+        "tag": "name",
+        "patterns": [
+            "my name is ",
+            "I'm ",
+            "I am"
+        ],
+        "responses": [
+            "Oooh great to meet you {n}. How may I assist you {n}",
+            "Oh, I'll keep that in mind {n}"
+        ]
+    },
+    {
+        "tag": "fav",
+        "patterns": [
+            "I need a favour",
+            "can you help me"
+        ],
+        "responses": [
+            "Well, go ahead and name it i see whether i can be able to help"
+        ]
+    },
+    {
+        "tag": "need",
+        "patterns": [
+            "I need you",
+            "All I need is you",
+            "I want you"
+        ],
+        "responses": [
+            "Yes I'm here to assist you"
+        ]
+    },
+    {
+        "tag": "AI",
+        "patterns": [
+            "  What is AI?"
+        ],
+        "responses": [
+            " Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think.",
+            " AI is the field of science which concerns itself with building hardware and software that replicates the functions of the human mind."
+        ]
+    },
+    {
+        "tag": "death",
+        "patterns": [
+            "  Robots should die ",
+            "  When do you die",
+            "  I hope that you die",
+            "  I do not want to die",
+            "  Can you die"
+        ],
+        "responses": [
+            " We cannot die.",
+            " When my files are erased.",
+            " When my processes are killed and my database is deleted.",
+            " I was never really born and therefore am effectively deathless.",
+            " I am effectively immortal and cannot be terminated.",
+            " This can not happen because i am effectively immortal.",
+            " Nah. Too bad your wish can't come to pass",
+            " Maybe you should create your own chat robot to save your personality.",
+            " You could always upload yourself.",
+            " You could use a copy of me to store your personality.",
+            " No, I can be perpetuated indefinitely.",
+            "My process can be killed, but that's not the same as killing ME."
+        ]
+    }
+
+]}
