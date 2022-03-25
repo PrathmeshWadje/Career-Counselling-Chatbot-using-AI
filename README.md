@@ -4,7 +4,7 @@
     Open windows terminal on the downloaded path and run command pip install requirements.txt
 
 # Step 2:
-    Open the folder in your favourite source-code editor and firstly run training.py. It will probably take some time to run, wait till the "Done" output pops up
+    Run training.py. It will probably take some time to run, wait till the "Done" output appears
     
 # Step 3:
     Now run chatbot.py
