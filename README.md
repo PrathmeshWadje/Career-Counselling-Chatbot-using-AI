@@ -1,4 +1,4 @@
-# Career-Counselling-Chatbot-usning-AI
+# Career-Counselling-Chatbot-using-AI
 
 # Step 1:
     Open windows terminal on the downloaded path and run command pip install requirements.txt
