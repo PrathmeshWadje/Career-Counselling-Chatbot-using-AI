@@ -2,7 +2,6 @@
 
 import random
 import json
-import json
 import pickle
 import numpy as np
 
